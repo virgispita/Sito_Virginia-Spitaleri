@@ -187,7 +187,7 @@ footer {
         font-weight: normal;
         text-align: left;
         font-size: 18px;
-        padding-left: 100px;
+        padding-left: 10px;
     }
     
     h3{
@@ -212,8 +212,8 @@ footer {
         display: flex;
         margin: 5em auto;
         max-width: 50%;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         padding-left: 10px;
         padding-right: 10px;
     }
