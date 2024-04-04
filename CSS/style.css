@@ -149,7 +149,6 @@ footer {
     .container text {
     max-width: 800px;
     margin: auto;
-    display: flex;
 }
     .h2{
     margin: auto;
