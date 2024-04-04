@@ -75,21 +75,22 @@ header nav a:hover {
 }
 
 h2{
-    margin: 3em;
+    max-width: 1900px;
+    margin: auto;
     color: #fff;
     font-weight: normal;
     text-align: left;
     font-size: 32px;
-    padding-left: 100px;
+
 }
 
 h3{
-    margin: 3em;
+    max-width: 1900px;
+    margin: auto;
     color: #fff;
     font-weight: normal;
     text-align: left;
     font-size: 32px;
-    padding-left: 100px;
 }
 
 h4{
@@ -151,6 +152,7 @@ footer {
 }
     .h2{
     grid-column: 1fr;
+    max-width: 800px;
     margin: auto;
     color: #fff;
     font-weight: small;
@@ -159,6 +161,7 @@ footer {
 }
     .h3{
     grid-column: 1fr;
+    max-width: 800px;
     margin: auto;
     color: #fff;
     font-weight: small;
